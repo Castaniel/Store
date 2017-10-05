@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
+gem 'sendgrid'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
